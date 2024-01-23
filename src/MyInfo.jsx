@@ -7,7 +7,7 @@ const MyInfoStyled = styled.aside`
 export default function MyInfo(){
     return(
         <MyInfoStyled>
-            내정보
+            내정보ㅁ
         </MyInfoStyled>
     )
 }
